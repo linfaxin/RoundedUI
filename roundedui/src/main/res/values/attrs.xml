@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="RoundedUI">
+        <attr name="halfRound" format="boolean" />
+        <attr name="adjustRoundSize" format="boolean" />
+        <attr name="roundWidth" format="dimension|fraction" />
+        <attr name="roundHeight" format="dimension|fraction" />
+        <attr name="borderWidth" format="dimension" />
+        <attr name="borderColor" format="color|integer|reference"/>
+    </declare-styleable>
+</resources>
