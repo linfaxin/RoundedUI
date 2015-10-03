@@ -37,5 +37,3 @@ simple use in xml
         </com.linfaxin.roundedui.RoundedFrameLayout>
  ```
 
-
-Inspired by [Rounded UI](https://github.com/Provectium/Rounded-UI) by Provectium.
